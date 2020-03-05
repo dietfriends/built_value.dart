@@ -4,4 +4,8 @@ description: This pubspec determines the version of the analyzer plugin to load.
 environment:
   sdk: '>=1.24.0-dev.1.0'
 dependencies:
-  built_value_generator: ^6.8.2
+  built_value_generator:
+    git:
+      url: https://github.com/dietfriends/built_value.dart.git
+      path: built_value_generator
+      ref: edc416ae012d3d2e57722eaf851053cb47f9c58d
