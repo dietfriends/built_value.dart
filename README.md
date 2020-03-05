@@ -1,5 +1,5 @@
 # Built Values for Dart
-[![Build Status](https://travis-ci.org/google/built_value.dart.svg?branch=master)](https://travis-ci.org/google/built_value.dart)
+[![Build Status](https://travis-ci.org/dietfriends/built_value.dart.svg?branch=master)](https://travis-ci.org/dietfriends/built_value.dart)
 ## Introduction
 
 Built Value provides:
