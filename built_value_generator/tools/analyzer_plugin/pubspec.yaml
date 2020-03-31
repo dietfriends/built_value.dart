@@ -5,7 +5,6 @@ environment:
   sdk: '>=1.24.0-dev.1.0'
 dependencies:
   built_value_generator:
-    git:
-      url: https://github.com/dietfriends/built_value.dart.git
-      path: built_value_generator
-      ref: edc416ae012d3d2e57722eaf851053cb47f9c58d
+    path: ../../../built_value_generator
+  built_value_analyzer_plugin:
+    path: ../../../built_value_analyzer_plugin
